@@ -15,10 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - run: |
-          sudo apt-get update && sudo apt-get install -y pandoc
-          mkdir -p _site
-          pandoc -s src/index.md -o _site/index.html --mathjax=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+      - run: ./build-site.sh
 
       - uses: actions/configure-pages@v4
       - uses: actions/upload-pages-artifact@v3
