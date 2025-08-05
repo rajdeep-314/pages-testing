@@ -3,7 +3,7 @@ title: "Archive of Questions"
 header-includes:
   - |
     <style>
-    body { font-size: 24px; }
+    body { font-size: 21px; }
     </style>
 colorlinks: true
 linkcolor: blue
