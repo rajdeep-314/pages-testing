@@ -18,3 +18,5 @@ You have to completely fill a $1 \times 1$ square and you can only use rectangle
 
 **Submission:** Send your solution on the [WhatsApp group](https://en.wikipedia.org/wiki/Cat).
 
+$$\Huge\varnothing$$
+

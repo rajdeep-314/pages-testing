@@ -22,3 +22,5 @@ citecolor: blue
 |   3       |   Hemanth         |   1123010xx   |   $\infty/3$      |
 |   4       |   Vishwaa         |   1122010xx   |   $\infty/\pi$    |
 
+$$\Huge\varnothing$$
+

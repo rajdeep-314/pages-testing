@@ -94,3 +94,5 @@ A mathematics-based treasure hunt with 5-6 rounds, where you employ your mathema
 
 Licensed under the [MIT License](https://opensource.org/license/MIT)
 
+$$\Huge\varnothing$$
+
