@@ -1,5 +1,5 @@
 ---
-title: "Archive of Questions"
+title: "Archive"
 header-includes:
   - |
     <style>
