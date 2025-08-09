@@ -15,7 +15,7 @@ citecolor: blue
 
 - [Leaderboard](leaderboard.html)
 - [Latest Challenge](latest.html)
-- [Archive of questions](questions-archive.html)
+- [Archive of questions and solutions](archive.html)
 
 
 ## Who are we?
